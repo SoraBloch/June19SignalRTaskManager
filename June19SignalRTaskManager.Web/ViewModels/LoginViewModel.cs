@@ -1,4 +1,4 @@
-﻿namespace June6apis.Web.ViewModels
+﻿namespace June19SignalRTaskManager.Web.ViewModels
 {
     public class LoginViewModel
     {

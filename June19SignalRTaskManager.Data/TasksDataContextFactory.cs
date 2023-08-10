@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 
-namespace June5apis.Data
+namespace June19SignalRTaskManager.Data
 {
     public class TasksDataContextFactory : IDesignTimeDbContextFactory<TasksDataContext>
     {

@@ -1,6 +1,8 @@
-﻿using June5apis.Data;
+﻿
 
-namespace June6apis.Web.ViewModels
+using June19SignalRTaskManager.Data;
+
+namespace June19SignalRTaskManager.Web.ViewModels
 {
     public class SignupViewModel : User
     {

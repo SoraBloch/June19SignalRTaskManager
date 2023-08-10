@@ -1,5 +1,5 @@
-﻿using June5apis.Data;
-using June6apis.Web.ViewModels;
+﻿using June19SignalRTaskManager.Data;
+using June19SignalRTaskManager.Web.ViewModels;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

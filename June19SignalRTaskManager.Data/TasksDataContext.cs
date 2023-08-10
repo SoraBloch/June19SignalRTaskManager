@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Reflection.Emit;
 
-namespace June5apis.Data
+namespace June19SignalRTaskManager.Data
 {
     public class TasksDataContext : DbContext
     {
